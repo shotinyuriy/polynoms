@@ -1,0 +1,11 @@
+com\in28minutes\rest\webservices\service\PolynomParser.class
+com\in28minutes\rest\webservices\model\PolynomAddition.class
+com\in28minutes\rest\webservices\RestfulWebServicesApplication.class
+com\in28minutes\rest\webservices\model\PolynomPart.class
+com\in28minutes\rest\webservices\RuntimeControllerAdvice.class
+com\in28minutes\rest\webservices\HelloWorldBean.class
+com\in28minutes\rest\webservices\model\PolynomResponse.class
+com\in28minutes\rest\webservices\service\PolynomCalculator.class
+com\in28minutes\rest\webservices\HelloWorldController.class
+com\in28minutes\rest\webservices\PolynomRestResource.class
+com\in28minutes\rest\webservices\service\PolynomParser$1.class

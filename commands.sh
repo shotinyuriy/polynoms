@@ -1,0 +1,1 @@
+docker run --name pivotal-postgresql -p 5432:5432 -e POSTGRES_PASSWORD=secret_password -d postgres
